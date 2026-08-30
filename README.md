@@ -1,12 +1,12 @@
 # netflix-data-analysis
 # 🎬 Netflix Data Analysis | End-to-End Data Analytics Project
+![Netflix Dashboard](dashboard.png)
 
 I finished my next end-to-end project from cleaning raw data to giving business solutions. My goal was analyzing global Netflix data, finding regional production differences, genre distribution, and audience segmentation.
 
 ---
 
 ## 📊 Dashboard Overview
-![Netflix Dashboard](dashboard.png)
 
 ---
 
